@@ -3,3 +3,7 @@
 建议大家fork下面自己调试修改，并理解Mybatis和Spring整合的原理
 
 具体教程见博客：http://weigu.tk/?p=80
+
+
+2017.6.1 修改
+推荐使用springboot  https://github.com/rainzhu/springbootdemo
